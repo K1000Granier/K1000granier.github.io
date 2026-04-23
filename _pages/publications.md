@@ -9,6 +9,13 @@ author_profile: true
 Publications in International Refereed Journals
 ======
 
+**2026**  **C. Granier**, F. Bacchini, D. Groselj, L. Sironi, *3D Kinetic Simulations of Driven Reconnection in Merging Flux Tubes*,
+[https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/1538-4357/ae0738)
+
+**2025**  **C. Granier**, D. Groselj, L. Comisso, F. Bacchini, *Driven Collisionless Reconnection of Force-free Flux Tubes: From Onset to Coalescence*, ApJ, 992, 193, [https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/1538-4357/ae0738)
+
+**2025**  **F. Bacchini**, G. R. Werner, C. Granier, J. Vos, *Three-dimensional Dynamics of Strongly Magnetized Ion–Electron Relativistic Reconnection*, ApJL, 991, L9, [https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/2041-8213/ae0197)
+
 **2024**  **C. Granier**, S. S. Cerri, F. Jenko, *Electron-only reconnection and ion heating in 3D3V hybrid-Vlasov plasma turbulence*, ApJ, 974, 11, [https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19)
 
 **2024**   T. Passot, S. S. Cerri, **C. Granier**, D. Laveder, P.L. Sulem, E. Tassi, *Gyrofluid simulations of turbulence and reconnection in space plasmas*, Fundamental Plasma Physics, 11, 100055, [https://www.sciencedirect.com/science/article/pii/S2772828524000207](https://www.sciencedirect.com/science)
