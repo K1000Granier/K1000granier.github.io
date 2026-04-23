@@ -21,8 +21,8 @@ Research themes:
 Methods:
 
 - Linear theory and reduced kinetic models  
-- Gyrofluid, gyrokinetic, and hybrid-Vlasov approaches  
-- Particle-in-cell simulations  
+- Spectral codes: Gyrofluid, gyrokinetic, and hybrid-Vlasov (non relativistic)  
+- Particle-in-cell simulations (relativistic)
 
 <hr>
 
