@@ -1,50 +1,35 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "Research overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My research focuses on plasma astrophysics. Much of my work involves analytic calculations and massively parallel numerical simulations. 
+I work on kinetic plasma processes in space and astrophysical plasmas, with an emphasis on magnetic reconnection, turbulence, plasma instabilities, and anisotropy-driven dynamics. My research combines analytical theory with large-scale numerical simulations.
 
-<!--My research work is concerned with the universal process of magnetic reconnection. This process is a complex mutli-scale phenomenon responsible for triggering powerful releases of magnetic energy in astrophysical plasmas, such as solar flares. More recently, the investigation of instabilities in reconnecting current sheets and the subsequent formation of secondary magnetic islands, known as plasmoids, has significantly contributed to our understanding of magnetic reconnection.-->
+Current research interests include:
 
-Some of my research interests are listed below:
+- Collisionless reconnection and current-sheet stability
+- Plasmoid instability in relativistic and non-relativistic plasmas
+- Turbulence-driven reconnection and plasma heating
+- Kinetic instabilities and pressure anisotropy
+- Reduced plasma models and large-scale kinetic simulations
 
-- Magnetic reconnection & plasmoid instability (relativistic and non-relativistic)
-- Turbulence (space physics and solar wind)
-- Plasma instabilities
-- Fluid modelling
+Methods and tools:
 
-<p></p>
-<p></p>
-
- <!-- This website is intended as a hub where you can find links to recorded talks, public data repositories from my simulations, and materials such as project results or code scripts.-->
-<p></p>
-<p></p>
-
-<hr>
-<h2 style="font-size: 1.2em;">News</h2>
-
-<ul>
- <!-- <li><span style="color: #4682B4; font-weight: bold;">January 2025</span>. Now in KU Leuven.</li>-->
-  <li><span style="color: #4682B4; font-weight: bold;">May 2024</span>. Recorded Talk (in French :)). <a href="https://www.youtube.com/watch?v=cEPpevsQGhM&t=1589s">French Society of Physics Conference</a></li>
-  <li><span style="color: #4682B4; font-weight: bold;">May 2024</span>. Workshop. <a href="https://www.oca.eu/en/workshop">Magnetic reconnection and turbulence in space and fusion plasmas</a>, in Nice.</li>
-  <li><span style="color: #4682B4; font-weight: bold;">July 2023</span>. Recorded Talk. <a href="https://www.cambridge.org/core/journals/journal-of-plasma-physics/jpp-frontiers-of-plasma-physics-colloquium">JPP Frontiers of Plasma Physics Colloquium</a>.</li>
-</ul>
-
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+- Linear theory and reduced kinetic models
+- Gyrofluid, gyrokinetic, and hybrid-Vlasov approaches
+- Particle-in-cell simulations
 
 <hr>
 
-<p></p>
-<p></p>
+## Selected updates
 
-Last updated: 10.01.2024
+- **May 2024.** Recorded talk at the [French Society of Physics Conference](https://www.youtube.com/watch?v=cEPpevsQGhM&t=1589s).
+- **May 2024.** Workshop: [Magnetic reconnection and turbulence in space and fusion plasmas](https://www.oca.eu/en/workshop), Nice.
+- **July 2023.** Recorded talk at the [JPP Frontiers of Plasma Physics Colloquium](https://www.cambridge.org/core/journals/journal-of-plasma-physics/jpp-frontiers-of-plasma-physics-colloquium).
+
+_Last updated: April 2026_
