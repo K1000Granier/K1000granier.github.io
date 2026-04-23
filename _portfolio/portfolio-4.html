@@ -1,38 +1,18 @@
 ---
 title: "Collisionless Plasmoid Instability"
-excerpt: "Simulation of collisionless magnetic reconnection with strong guide field. <br/><img src='/images/plasmoids.png' width='560' >"
+excerpt: "Collisionless plasmoid instability in guide-field reconnection. <br/><img src='/images/plasmoids.png' width='560' >"
 collection: portfolio
 ---
 
-<!--
-  <p>Non-collisional current sheets that form during magnetic reconnection can become unstable to the formation of plasmoids, enabling high reconnection rates. </p>
-
-  <p>In Granier et al. 2022, we investigate the instability conditions for plasmoid development in purely collisionless current sheets with a strong guide field and low plasma beta.
-  The study was conducted using 2D simulations performed with the fluid solver SCOP3D, with a resolution of up to 2400x2400 points.<p>
-  <p>The study reveals that the formation of plasmoids in collisionless current sheets can occur at an aspect ratio threshold of ≤ 10.</p>
--->
-
-<p>In these studies, we investigate the collisionless plasmoid instability in the context of magnetic reconnection. The first study (<i>Granier, PRE 2022</i>) focuses on the marginal stability conditions for the formation of plasmoids in collisionless current sheets with a strong guide field. We analyze the geometry of the reconnecting current sheet and identify the regimes in which plasmoid instability occurs. The study shows that plasmoids can be formed from current sheets with a smaller aspect ratio compared to the collisional regime. </p>
+In this work, we study the collisionless plasmoid instability in reconnecting current sheets with a strong guide field. The main goal is to identify the conditions under which a collisionless sheet becomes unstable and breaks into plasmoids, and to determine how finite-\(\beta_e\) and electron-scale effects modify this threshold.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/gif.gif" width="300">
+  <img src="/images/plasmoids_pre.png" width="900">
 </div>
-<figcaption style="text-align: center; font-style: italic;">Out of plane electron velocity with magnetic field lines in black.</figcaption>
+<figcaption style="text-align: center; font-style: italic;">
+Current-sheet structure and scaling of the collisionless plasmoid instability. The results show that plasmoid formation can occur in thinner sheets than in the collisional regime, and that finite-\(\beta_e\) effects further modify the critical aspect ratio for breakup.
+</figcaption>
 
-<p>The second study (<i>Granier, JPP 2023</i>) expands on the investigation by analyzing the impact of finite electron beta (<i>β<sub>e</sub></i>) and electron Larmor radius effects on the collisionless plasmoid instability in the presence of a strong guide field. Comparisons between gyrofluid and gyrokinetic simulations demonstrate the capability of gyrofluid models in predicting the observed plasmoid instability. The results indicate that finite <i>β<sub>e</sub></i> promotes plasmoid growth and reduces the critical aspect ratio for plasmoid formation. The study provides insights into the role of electron-scale effects in collisionless reconnection.</p>
+<p></p>
 
-<div style="display: flex; justify-content: center;">
-  <img src="/images/Case2-sanscolorbar_l-1.png" width="500">
-</div>
-
-<figcaption style="text-align: center; font-style: italic;">Contour of the parallel electron velocity with isolines of the magnetic potential.</figcaption>
-
-<p>Both studies employ the numerical solver SCOPE3D, which solves the collisionless plasma equations. The first study (<i>Granier, PRE 2022</i>) solely uses the fluid numerical solver, while the second study (<i>Granier, JPP 2023</i>) adapts SCOPE3D to solve the gyrofluid equations and includes gyrokinetic simulations using the AstroGK code</p>
-<p>Overall, these studies contribute to understanding the collisionless plasmoid instability. The results obtained from the fluid and gyrofluid models provide valuable insights into the stability of current sheets and the role of electron-scale effects in collisionless reconnection.</p>
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/dia.png" width="400">
-</div>
-
-<figcaption style="text-align: center; font-style: italic;">Parameter space diagram that identifies where the plasmoid instability leads to the break up of the CS.</figcaption>
-
+Using fluid, gyrofluid, and gyrokinetic approaches, this work shows how collisionless effects control current-sheet stability and the onset of plasmoid-mediated reconnection.
