@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download my complete CV](https://K1000Granier.github.io/files/CVGranier.pdf)
+<!---[Download my complete CV](https://K1000Granier.github.io/files/CVGranier.pdf)--->
 
 
 <h2 style="font-size: 1.1em;">Employment</h2>
