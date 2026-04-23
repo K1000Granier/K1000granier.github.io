@@ -86,11 +86,11 @@ author:
   name             : "Camille Granier"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
-  location         : "IPP, Germany"
+  location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pOJJVcgAAAAJ"
-  email            : "camille.granier@oca.eu"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
