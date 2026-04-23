@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I study kinetic plasma processes in space and astrophysical plasmas, focusing on magnetic reconnection, turbulence, plasma instabilities, and anisotropy-driven dynamics. My work combines analytical theory with large-scale numerical simulations, and is conducted in part within the :contentReference[oaicite:0]{index=0}.
-
+I study kinetic plasma processes in space and astrophysical plasmas, focusing on magnetic reconnection, turbulence, plasma instabilities, and anisotropy-driven dynamics. My work combines analytical theory with large-scale numerical simulations.
 Research themes:
 
 - Collisionless reconnection and current-sheet stability  
