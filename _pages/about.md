@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Fellow at the Centre for mathematical Plasma Astrophysics (CmPA) of KU Leuven, in the group of Prof. Fabio Bacchini. 
-<!--Prior to this position, I worked as a postdoctoral research assistant in the <a href="https://fluid.oca.eu/fr/fluid">Fluid and Plasma Research Group</a> at <a href="https://lagrange.oca.eu/fr/accueil-lagrange">Laboratoire Lagrange, under the joint supervision of Emanuele Tassi and <a href="https://www.oca.eu/fr/thierry-passot">Thierry Passot</a>. -->
-
 My research focuses on plasma astrophysics. Much of my work involves analytic calculations and massively parallel numerical simulations. 
 
 <!--My research work is concerned with the universal process of magnetic reconnection. This process is a complex mutli-scale phenomenon responsible for triggering powerful releases of magnetic energy in astrophysical plasmas, such as solar flares. More recently, the investigation of instabilities in reconnecting current sheets and the subsequent formation of secondary magnetic islands, known as plasmoids, has significantly contributed to our understanding of magnetic reconnection.-->
