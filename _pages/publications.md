@@ -10,7 +10,7 @@ Publications in International Refereed Journals
 ======
 
 **2026**  **C. Granier**, F. Bacchini, D. Groselj, L. Sironi, *3D Kinetic Simulations of Driven Reconnection in Merging Flux Tubes*,
-[https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/1538-4357/ae0738)
+[https://arxiv.org/pdf/2604.10431](https://arxiv.org/pdf/2604.10431)
 
 **2025**  **C. Granier**, D. Groselj, L. Comisso, F. Bacchini, *Driven Collisionless Reconnection of Force-free Flux Tubes: From Onset to Coalescence*, ApJ, 992, 193, [https://iopscience.iop.org/article/10.3847/1538-4357/ad6a19](https://iopscience.iop.org/article/10.3847/1538-4357/ae0738)
 
