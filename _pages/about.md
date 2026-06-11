@@ -12,17 +12,16 @@ I study kinetic plasma processes in space and astrophysical plasmas, focusing on
 
 Research themes:
 
-- Collisionless reconnection and current-sheet stability  
-- Plasmoid instability in relativistic and non-relativistic regimes  
-- Turbulence-driven reconnection and plasma heating  
+- Tearing theory, collisionless reconnection and current-sheet stability  
+- Turbulence and plasma heating 
 - Kinetic instabilities and pressure anisotropy  
-- Reduced plasma descriptions and multi-scale dynamics  
+- Reduced plasma descriptions 
 
 Methods:
 
-- Linear theory and reduced kinetic models  
-- Spectral codes: Gyrofluid, gyrokinetic, and hybrid-Vlasov (non relativistic)  
-- Particle-in-cell simulations (relativistic)
+- Linear theory and reduced models  
+- Spectral codes: Gyrofluid, gyrokinetic, and hybrid-Vlasov   
+- Particle-in-cell simulations 
 
 <hr>
 
