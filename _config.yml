@@ -86,7 +86,7 @@ author:
   name             : "Camille Granier"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
-  location         : 
+  location         : "Stanford University"
   employer         : 
   pubmed           : 
   googlescholar    : 
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/camille-granier-3ab56423b"
+  linkedin         : #"https://www.linkedin.com/in/camille-granier-3ab56423b"
   orcid            : "https://orcid.org/0000-0003-2841-8153"
   pinterest        :
   soundcloud       :
